@@ -1484,7 +1484,7 @@ label.firstLabel {
 }
 
 #_3fe914df-53a8-27af-d29d-3a9c3c694cc5 div.itemsContainer.itemRequiredInput {
-    background: url("Content/Images/formRequiredRadio_v1.26.png") no-repeat scroll right 9px
+    background: url("img/formRequiredRadio_v1.26.png") no-repeat scroll right 9px
 }
 
 .optionsPosRequiredOutTitles {
@@ -1518,7 +1518,7 @@ label.firstLabel {
 }
 
 #_3fe914df-53a8-27af-d29d-3a9c3c694cc5 div.itemsContainer.itemRequiredInputError {
-    background: url("Content/Images/formRequiredInputError_v1.26.png") no-repeat scroll right 9px
+    background: url("img/formRequiredInputError_v1.26.png") no-repeat scroll right 9px
 }
 
 #_3fe914df-53a8-27af-d29d-3a9c3c694cc5 .requiredFieldsText {
@@ -1530,24 +1530,24 @@ label.firstLabel {
 }
 
 input.requiredInput[type=text] {
-    background: url("Content/Images/formRequiredInput_v1.26.png") no-repeat right center #FFF
+    background: url("img/formRequiredInput_v1.26.png") no-repeat right center #FFF
 }
 
 input.requiredInputError[type=text] {
-    background: url("Content/Images/formRequiredInputError_v1.26.png") no-repeat right center #FFF
+    background: url("img/formRequiredInputError_v1.26.png") no-repeat right center #FFF
 }
 
 textarea.requiredInput {
-    background: url("Content/Images/formRequiredInput_v1.26.png") no-repeat right 3px #FFF
+    background: url("img/formRequiredInput_v1.26.png") no-repeat right 3px #FFF
 }
 
 textarea.requiredInputError {
-    background: url("Content/Images/formRequiredInputError_v1.26.png") no-repeat right 3px #FFF
+    background: url("img/formRequiredInputError_v1.26.png") no-repeat right 3px #FFF
 }
 
 label.error a.emailWarning, label.error a.numberWarning {
     display: inline-block !important;
-    background: url("Content/Images/formEmailInputError.png") no-repeat 0 0 transparent;
+    background: url("img/formEmailInputError.png") no-repeat 0 0 transparent;
     width: 18px;
     height: 16px;
     position: relative;
@@ -1586,7 +1586,7 @@ label.error a.emailWarning, label.error a.numberWarning {
     position: relative;
     float: right;
     bottom: 29px;
-    background: url("./Content/Images/formRequiredInput_v1.26.png") no-repeat right center;
+    background: url(".img/formRequiredInput_v1.26.png") no-repeat right center;
     height: 29px;
     margin-bottom: -29px;
     width: 101px;
@@ -1602,7 +1602,7 @@ label.error a.emailWarning, label.error a.numberWarning {
 }
 
 .selectRequiredImgContainer.error {
-    background: url("Content/Images/formRequiredInputError_v1.26.png") no-repeat right center
+    background: url("img/formRequiredInputError_v1.26.png") no-repeat right center
 }
 
 #_ {
