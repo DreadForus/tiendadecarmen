@@ -381,7 +381,8 @@ nav.shrink .navbar-toggle {
 ==================================================*/
 .about-bg
 {
-	background: url('../images/About-C-bg.jpg');
+	/*background: url('../images/About-C-bg.jpg');*/
+	background: url('../images/owl/3.png');
 	background-repeat: no-repeat;
 	background-size: 85%;
   	background-position-x: 15%;
